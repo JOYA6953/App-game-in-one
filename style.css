@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+}
+#myCerousel{
+    background-color:#bdb2ff; 
+    }
+#myCerousel img{
+    height: 300px;
+    margin-top:35px;
+}
+.cerousel-inner p{
+    margin-bottom: 15px;
+        margin-top: 15px;
+    color: #b5179e;
+    font-size:20px;
+}
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background-color: darkorchid;
+}
+.line{
+    height: 6px;
+    background-color: darkslateblue;
+    width: 70px;
+    margin: 8px auto;
+}
